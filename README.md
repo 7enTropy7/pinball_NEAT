@@ -3,10 +3,6 @@ NeuroEvolution of Augmenting Topologies(NEAT) is a Genetic Algorithm for generat
 
 This algorithm has shown a great promise in complex Reinforcement Learning Tasks. So I implemented this algorithm in the 'VideoPinball-v0' environment in OpenAI Gym. 
 
-Initial stages of training:
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36446402/63047681-8d177a80-bef2-11e9-8d1d-f0d77308870c.gif)
-
 Progress after training for around 20 minutes:
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/36446402/63050526-f9957800-bef8-11e9-9a73-4932cdd161a0.gif)
